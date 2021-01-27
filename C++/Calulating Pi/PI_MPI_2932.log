@@ -1,0 +1,15 @@
+/var/spool/slurm/slurmd/job02932/slurm_script: line 9: /etc/profile.d/module.sh: No such file or directory
+/var/spool/slurm/slurmd/job02932/slurm_script: line 11: module: command not found
+Process 0 on cn05
+Process 4 on cn09
+Process 1 on cn06
+Process 3 on cn08
+Process 2 on cn07
+Process: 4 - Points within box: 78640
+Process: 3 - Points within box: 78598
+Process: 0 - Points within box: 78563
+Process: 2 - Points within box: 78651
+Process: 1 - Points within box: 78321
+Total sum: 392773
+Ratio: 0.785546
+PI: 3.14218

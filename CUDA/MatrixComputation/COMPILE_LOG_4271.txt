@@ -1,0 +1,2 @@
+matrix.cu(28): warning: variable "sum" was declared but never referenced
+
